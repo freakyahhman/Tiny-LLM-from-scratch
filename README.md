@@ -1,2 +1,4 @@
-# Gemma3-From-Scratch
-Trying to make gemma3-270M from scratch, with explaination.
+# My-LLM-From-Scratch
+Trying to make a small language models (110M) from scratch, with explaination.
+
+have not done yet :)
